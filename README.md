@@ -7,5 +7,8 @@ Two sprite sheets with C64 fonts are included. Commodore stole the font them sel
 The background music included is: Arcade Music Loop.wav from freesound.org
 Made by: joshuaempyre
 
+Turned this one into a more complete 80s intro
+https://github.com/solron/UnityRetroDemo
+
 Screenshot 05.05.19
 ![alt text](http://soltveit.org/files/sinewave1.png)
